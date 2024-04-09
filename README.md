@@ -1,4 +1,4 @@
-# Node.js Backend Application with Express.js
+# NodeJS-ExpressValidation
 
 This project is a Node.js backend application using Express.js. It implements user authentication, including login and registration functionalities, with comprehensive request validation and custom error handling. The system validates user input on authentication routes and provides detailed feedback on validation errors.
 
